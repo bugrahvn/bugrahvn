@@ -17,5 +17,10 @@ EN: "Born in 1999 in Ankara, I am a self-taught Full-Stack Developer dedicated t
 
 ## 📊 GitHub İstatistiklerim
 
+![Bugra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugrahvn&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+## 🌐 Kullanılan Dikker
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrahvn&layout=compact&theme=dark&hide_border=true)
 
 
