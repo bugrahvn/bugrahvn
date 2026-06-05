@@ -17,9 +17,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim & Kullanılan Diller
+### 📊 GitHub Aktivite Grafiğim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bugrahvn&show_icons=true&theme=tokyonight&count_private=true" alt="Buğra's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrahvn&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" height="180" />
-</p>
+![Buğra's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=bugrahvn&theme=tokyonight&bg_color=0d1117&hide_border=true)
